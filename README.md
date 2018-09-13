@@ -1,4 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
+From September 14th onwards I will spend a minimum of 1 hour per day writing Clojure code for 100 days.  
+My personal goals of this challenge are to learn the language and build a few projects with it. These goals deviate a bit from the original goals as it is "forbidden" to do tutorials in that time. 
+The rules state that you should only hack on projects to have a better learning experience. But as I know very little about Clojure, I don't think I can jump straight into projects but have to learn at least the basics through tutorials.
 
 ## Contents
 
@@ -7,10 +10,45 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-## Translations
-[español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [polski](intl/pl/README.md) - [русский](intl/ru/README-ru.md) - [português do Brasil](intl/pt-br/LEIAME.md) – [deutsch](intl/de/README.md) – [українська](intl/ua/README-ua.md) – [한국어](intl/ko/README-ko.md) – [中文](intl/ch/README.md)
+## Basic plan for the 100 days of Clojure challenge
+This initial plan is most likely being revised throughout the challenge as I'm not sure how fast I will ramp up my skills.  
+### Main goals
+* get a grasp on the syntax
+* learn project setup
+* incorporate testing (TDD even?)
+* learn Java interop
+* DB communication (Datomic even?)
+* learn ClojureScript
+* build at least one simple full stack web application with Clojure and ClojureScript
 
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
+### Day 0
+* Edit this repo to reflect my goals and a basic outline for the 100 days of code
+* Setup of toolchain (Java, Clojure, Leiningen, Spacemacs)
+* Testing the toolchain (REPL driven development)
+
+### Day 1
+* Clojure Syntax and basic language usepackage
+
+### Day 2-31
+Exercises from the following websites:
+* [Project Euler](https://projecteuler.net/archives) 
+* [4Clojure challenges](http://www.4clojure.com/) 
+* [Awesome kata exercises](https://github.com/gamontal/awesome-katas) including testing
+* [ClojureBridge London exercises](https://clojurebridgelondon.github.io/workshop/) 
+
+### Day 32-50
+* [Exercism Clojure track](https://exercism.io/tracks/clojure) 
+* [CodeWars challenges](https://www.codewars.com/) 
+
+### Day 51-76
+* More substantial projects (tbd)
+* Game of Life
+* Basic webapp with ClojureScript (perhaps a ToDo list for starters)
+* something with spec
+* something with om.next
+
+### Day 77-100
+* [Advent of Code](https://adventofcode.com/) 
 
 ## If you've decided to join:
 
