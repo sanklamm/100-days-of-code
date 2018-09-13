@@ -27,7 +27,7 @@ This initial plan is most likely being revised throughout the challenge as I'm n
 * Testing the toolchain (REPL driven development)
 
 ### Day 1
-* Clojure Syntax and basic language usepackage
+* Clojure Syntax and basic language use
 
 ### Day 2-31
 Exercises from the following websites:
