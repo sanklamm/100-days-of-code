@@ -25,6 +25,14 @@ as I'm not really getting it atm. The language is really pretty though.
 
 
 ### Day 2: September 15, 2018
+#### 4Clojure exercises
+
+**Today's Progress:** Did the first 20 4Clojure exercises.
+
+**Thoughts:** I thought it would be better to nail down the language fundamentals than dive straight into harder problems. Yesterdays Fibonacci Problem was more guessing than informed programming. Which leads to not very much.
+
+
+### Day 3: September 16, 2018
 #### [general topic]
 
 **Today's Progress:** 
@@ -32,14 +40,9 @@ as I'm not really getting it atm. The language is really pretty though.
 **Thoughts:** 
 
 
-
-
-
-
-### Day 2: September 15, 2018
+### Day 4: September 17, 2018
 #### [general topic]
 
 **Today's Progress:** 
 
 **Thoughts:** 
-
